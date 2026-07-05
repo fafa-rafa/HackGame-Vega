@@ -1,7 +1,8 @@
 # HackGame Vega
 HackGame Vega is a custom firmware for HackHeld Vega II by Spacehuhn
 
-Also working on other games too
+Games: Snake, Breakout, Shooter
+Working on other games too
 
 # INSTALATION
 To install HackGame Vega:
